@@ -1,2 +1,2 @@
 # hello-world
-obligitory hellow world repo
+obligitory hello world repo
